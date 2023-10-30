@@ -43,7 +43,7 @@ const Teams = () => {
                     />
                     <div className="proj-txtx">
                       <h4>Prof Shirish H Sonawane</h4>
-                      <span>HOD-CII</span>
+                      <span>Head, CII</span>
                       <div
                         style={{
                           display: "flex",
