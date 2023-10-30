@@ -14,6 +14,7 @@ import {
   boardMembers,
 } from "../constants";
 import "animate.css";
+import shirish from "../assets/img/prof/shirish.png";
 
 const Teams = () => {
   return (
@@ -24,6 +25,42 @@ const Teams = () => {
             <div>
               <h2>Board Members</h2>
               <Tab.Container id="projects-tabs" defaultActiveKey="first">
+                <Row
+                  style={{
+                    display: "flex",
+                    justifyContent: "center",
+                    flexWrap: "wrap",
+                  }}
+                >
+                  <div
+                    className="proj-imgbx animate__animated animate__zoomInUp animate__delay-1s"
+                    style={{ width: "350px" }}
+                  >
+                    <img
+                      src={shirish}
+                      style={{ height: "350px", width: "350px" }}
+                      alt=""
+                    />
+                    <div className="proj-txtx">
+                      <h4>Prof Shirish H Sonawane</h4>
+                      <span>Faculty Advisor</span>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          alignItems: "center",
+                        }}
+                      >
+                        <a href="https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16328">
+                          <LaunchIcon
+                            fontSize="large"
+                            sx={{ color: " #FFEA00" }}
+                          />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </Row>
                 <Row
                   style={{
                     display: "flex",
