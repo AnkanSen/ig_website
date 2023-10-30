@@ -17,6 +17,10 @@ import narasimharaju from "../assets/img/prof/narasimhara.jpg";
 import muralidar from "../assets/img/prof/muralidhar.jpg";
 import maheswaram from "../assets/img/prof/satish.jpg";
 
+import roshan from "../assets/img/stud/roshan.jpg";
+import rithik from "../assets/img/stud/rithik.jpg";
+import adarsh from "../assets/img/stud/adarsh.jpg";
+
 export const genManagers = [
   {
     title: "Keerthi",
@@ -267,17 +271,17 @@ export const sfTeamMembers = [
 export const techTeamMembers = [
   {
     title: "Roshan Kuriakose",
-    description: "Papi",
-    imgUrl: Img1,
-    email: "gr21eeb0b22@student.nitw.ac.in",
-    linkedin: "https://www.linkedin.com/in/rushikesh-gupte-8a986a192/",
+    description: "Team Lead",
+    imgUrl: roshan,
+    email: "roshnn74@gmail.com",
+    linkedin: "https://www.linkedin.com/in/roshan-kuriakose-mohan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   {
     title: "Rithik Marudappa",
-    description: "Brain damage",
-    imgUrl: Img2,
-    email: "gr21eeb0b22@student.nitw.ac.in",
-    linkedin: "https://www.linkedin.com/in/rushikesh-gupte-8a986a192/",
+    description: "Member",
+    imgUrl: rithik,
+    email: "mrithik2024@gmail.com",
+    linkedin: "https://www.linkedin.com/in/rithik-marudappa-1a037022b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   {
     title: "Manav Bhadoria",
@@ -289,16 +293,9 @@ export const techTeamMembers = [
   {
     title: "Adarsh Rao",
     description: "Member",
-    imgUrl: Img2,
-    email: "gr21eeb0b22@student.nitw.ac.in",
-    linkedin: "https://www.linkedin.com/in/rushikesh-gupte-8a986a192/",
-  },
-  {
-    title: "Vamsi Pranav Palepu",
-    description: "Member",
-    imgUrl: Img2,
-    email: "gr21eeb0b22@student.nitw.ac.in",
-    linkedin: "https://www.linkedin.com/in/rushikesh-gupte-8a986a192/",
+    imgUrl: adarsh,
+    email: "adrao18020@gmail.com",
+    linkedin: "https://www.linkedin.com/in/sa4drao",
   },
   {
     title: "Ankan Sen",
