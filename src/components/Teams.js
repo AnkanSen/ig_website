@@ -232,21 +232,13 @@ const Teams = () => {
                         </Tab.Pane>
                         <Tab.Pane eventKey="third-second">
                           <p className="animate__animated animate__zoomIn">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing
-                            elit. Vero quasi quae libero adipisci optio veniam,
-                            repellat debitis, iste facilis maxime nemo nesciunt
-                            quia voluptatum, sunt impedit saepe minus. Id earum
-                            velit repudiandae perferendis fuga, rem pariatur
-                            maiores sapiente mollitia, ex soluta culpa
-                            reiciendis quidem totam eum repellendus aliquam nemo
-                            unde fugiat ratione vel commodi, odio voluptates?
-                            Quia animi corporis quos laborum necessitatibus vel
-                            voluptates minus hic maiores omnis non ea nam
-                            excepturi fugit autem in illo quasi asperiores,
-                            vero, aliquid illum at unde dolorem ab. Ipsam
-                            aliquid maxime quibusdam reiciendis, iste placeat
-                            sunt ad labore adipisci mollitia fugiat saepe
-                            pariatur!
+                            "IG Tech Team" at NIT Warangal is the epicenter of
+                            technological innovation. We unite tech enthusiasts,
+                            fostering innovation through projects, hackathons,
+                            and workshops. Embrace cutting-edge tech,
+                            collaborate with peers, and embark on an inspiring
+                            journey of discovery and creation in the digital
+                            age.
                           </p>
                           <Row
                             style={{
