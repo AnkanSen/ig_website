@@ -40,6 +40,33 @@ export const genManagers = [
   },
 ];
 
+export const outreachTeam=[
+  {
+    title: "Pranav Palepu",
+    description: "Team Lead",
+    imgUrl:
+      "https://user-images.githubusercontent.com/125126987/285527305-5e0af225-6610-48d4-ac6f-8d35f1ece774.png",
+    email: "pn922027@student.nitw.ac.in",
+    linkedin: "https://www.linkedin.com/in/vamsi-pranav-palepu/",
+  },
+  {
+    title: "Linesh Malkam",
+    description: "Member",
+    imgUrl:
+      "https://user-images.githubusercontent.com/125126987/285527534-e769639f-0d2c-479d-9887-f6ef7ed80871.jpeg",
+    email: "lk21csb0a35@student.nitw.ac.in",
+    linkedin: "https://www.linkedin.com/in/linesh-malkam-ba613b133/",
+  },
+  {
+    title: "Akshat Rai Laddha",
+    description: "Member",
+    imgUrl:
+      "https://user-images.githubusercontent.com/125126987/285527711-2a117dab-e65b-45eb-9203-cff2b2de5ace.jpg",
+    email: "ar832035@student.nitw.ac.in",
+    linkedin: "",
+  },
+]
+
 export const designTeamMembers = [
   {
     title: "Ashwin S Luke",

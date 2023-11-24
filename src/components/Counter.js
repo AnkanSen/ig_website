@@ -16,7 +16,7 @@ const Counter = () => {
             <CountUp
               
               start={0}
-              end={800}
+              end={16}
               duration={5}
             />}
         </Col>
