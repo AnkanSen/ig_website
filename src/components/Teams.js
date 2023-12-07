@@ -12,7 +12,7 @@ import {
   techTeamMembers,
   iTeamMembers,
   boardMembers,
-  outreachTeam
+  outreachTeam,
 } from "../constants";
 import "animate.css";
 import shirish from "../assets/img/prof/shirish.png";
@@ -307,16 +307,10 @@ const Teams = () => {
                         </Tab.Pane>
                         <Tab.Pane eventKey="third-fifth">
                           <p className="animate__animated animate__zoomIn">
-                            The Outreach Team is the face of the organization and
-                            acts as the bridge between Innovation Garage and the
-                            student community of NITW. We strive to promote
-                            entrepreneurship and innovation on the campus by
-                            engaging with the students who approach IG and
-                            providing them with the resources they require. We
-                            maintain the brand integrity and online presence of
-                            IG on campus by engaging in spontaneous & creative
-                            social media marketing and by being the Frontline
-                            desk of IG.
+                            Our Outreach Team builds community ties, engages
+                            stakeholders, and amplifies our club's impact
+                            through strategic partnerships and effective
+                            communication.
                           </p>
                           <Row
                             style={{
